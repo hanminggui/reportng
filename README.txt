@@ -10,5 +10,3 @@ https://dl.dropboxusercontent.com/u/14133069/reportng-1.1.4.zip
 Full instructions on how to use ReportNG can be found here:
 
 http://reportng.uncommons.org
-
-1
